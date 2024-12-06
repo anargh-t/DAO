@@ -95,7 +95,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Anargh T - [@anargh-t](https://github.com/anargh-t)
 
-Project Link: [https://github.com/yourusername/dao-platform](https://github.com/anargh-t/DAO)
+Project Link: [https://github.com/anargh-t/DAO](https://github.com/anargh-t/DAO)
 
 ## 🙏 Acknowledgments
 
