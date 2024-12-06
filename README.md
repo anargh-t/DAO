@@ -52,8 +52,8 @@ https://github.com/user-attachments/assets/fd9ff760-9e51-4f29-9ab4-3e524f0df88a
 
 1. Clone the repository and install dependencies
 ```bash
-git clone https://github.com/yourusername/dao-platform.git
-cd dao-platform
+git clone https://github.com/anargh-t/DAO.git 
+cd DAO
 npm install
 ```
 
