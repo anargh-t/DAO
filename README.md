@@ -2,7 +2,7 @@
 
 A modern DAO platform built with React and blockchain technologies, enabling decentralized governance through proposal creation, voting, and token management.
 
-[Watch the demo dashboard]("public\DAO Platform.mp4")
+[Watch the demo dashboard]("public/DAO Platform.mp4")
 
 ## 🌟 Key Features
 
