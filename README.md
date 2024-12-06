@@ -93,9 +93,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Anargh T - [@anargh-t](https://github.com/anargh-t)
 
-Project Link: [https://github.com/yourusername/dao-platform](https://github.com/yourusername/dao-platform)
+Project Link: [https://github.com/yourusername/dao-platform](https://github.com/anargh-t/DAO)
 
 ## 🙏 Acknowledgments
 
